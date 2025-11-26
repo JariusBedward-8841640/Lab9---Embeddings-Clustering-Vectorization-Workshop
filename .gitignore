@@ -69,6 +69,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+/nltk_data
+
 # Translations
 *.mo
 *.pot
