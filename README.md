@@ -10,3 +10,5 @@ Jarius Bedward - 8841640
 - Size: ~1 Million words ~57,000 Sentences
 - Structure: Texts are split into categories(genres)
 - We use the brown corpus to train word embeddings, using sentences from all categories
+
+- We also used the Glove Corpus available at http://nlp.stanford.edu/data/glove.6B.zip  
